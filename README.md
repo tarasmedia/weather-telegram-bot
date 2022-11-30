@@ -1,5 +1,7 @@
 # weather-telegram-bot
 
+Simple Telegram bot, that shows the weather by your geolocation
+
 How to start:
 - clone it
 - run npm i
